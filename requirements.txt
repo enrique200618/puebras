@@ -1,5 +1,6 @@
-streamlit
-yfinance
-ta
-pandas
-matplotlib
+torch==<versión compatible>
+diffusers
+opencv-python
+numpy
+Pillow
+
