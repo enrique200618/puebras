@@ -3,4 +3,8 @@ diffusers
 opencv-python
 numpy
 Pillow
-
+streamlit
+yfinance
+ta
+pandas
+matplotlib
